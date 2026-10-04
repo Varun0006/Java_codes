@@ -1,4 +1,4 @@
-public class SecondLargestArray {
+class SecondLargestArray {
     public static void main(String[] args) {
         int[] arr = {12, 35, 1, 10, 34, 1};
         int largest = Integer.MIN_VALUE;
@@ -20,3 +20,4 @@ public class SecondLargestArray {
         }
     }
 }
+

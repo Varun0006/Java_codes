@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class minMax
+class minMax
 {
 	public static void main(String[] args) {
 	    Scanner sc = new Scanner(System.in);
@@ -24,3 +24,4 @@ public class minMax
 	 	sc.close();   
 	}
 }
+

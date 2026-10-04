@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Factorial {
+class Factorial {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number from 0 to 20: ");
@@ -16,3 +16,4 @@ public class Factorial {
         sc.close();
     }
 }
+

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BinarySearch {
+class BinarySearch {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] arr = {2, 5, 8, 12, 16, 23, 38, 56, 72};
@@ -27,3 +27,4 @@ public class BinarySearch {
         sc.close();
     }
 }
+

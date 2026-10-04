@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LargestOfThree {
+class LargestOfThree {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter three numbers: ");
@@ -9,3 +9,4 @@ public class LargestOfThree {
         sc.close();
     }
 }
+

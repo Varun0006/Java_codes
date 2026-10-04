@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ArmstrongNumber {
+class ArmstrongNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a non-negative number: ");
@@ -25,3 +25,4 @@ public class ArmstrongNumber {
         sc.close();
     }
 }
+
